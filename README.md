@@ -1,9 +1,9 @@
 ### Hi, I'm Harsh
 
-- 🔭 I’m currently working on my 𝐏𝐎𝐑𝐓𝐅𝐎𝐋𝐈𝐎 website with a bunch of projects.
-- 🌱 I’m currently learning 𝐏𝐘𝐓𝐇𝐎𝐍.
+- 🔭 I create websites using html,css,bootstrap,javascript,Nodejs,express.js,mongodb and react.
+- 🌱 I’m currently learning 𝗣𝗬𝗧𝗛𝗢𝗡,𝗖++ 𝗮𝗻𝗱 𝗗𝗦𝗔
 - 💬 Ask me about anything except politics and history
-- ⚡ Fun fact: i read docs 😂 
+- ⚡ Looking forward to OPEN-SOURCE contribution...
 
 ## 🔗Socials 
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/harshk_codes)
