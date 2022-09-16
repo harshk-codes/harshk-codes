@@ -1,9 +1,9 @@
-### Hi, I'm Harsh
+### Hi, I'm Harsh Kumar
 
-- 🔭 I'm learning to create web application using MERN stack.
-- 🌱 I'm currently learning Computer Science starting out with CS50.
+- 🔭 I'm learning MERN stack and Programming.
+- 🌱 I'm currently learning Computer Science started out with CS50.
 - 💬 Open for help and working on projects together.
-- ⚡ Looking forward to OPEN-SOURCE contribution...
+- ⚡ Looking forward to OPEN-SOURCE contribution and become a DevOps engineer.
 
 ## 🔗Socials 
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/harshk_t)
