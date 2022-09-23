@@ -1,9 +1,9 @@
-### Hi, I'm Harsh Kumar
+###                                        👋 Heyy, I'm Harsh Kumar. I do web dev. and programming stuffs
 
-- 🔭 I'm learning MERN stack and Programming.
-- 🌱 I'm currently learning Computer Science started out with CS50.
-- 💬 Open for help and working on projects together.
-- ⚡ Looking forward to OPEN-SOURCE contribution and become a DevOps engineer.
+- 🔭 I'm currently working on my portfolio and projects...
+- 🌱 Learning to code in Java, DSA and getting better at MERN stack.
+- 💬 Open for help and working on projects together(only if i have that skill😅).
+- ⚡ Looking forward to OPEN-SOURCE contribution and become a DevOps engineer in future.
 
 ## 🔗Socials 
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/harshk_t)
