@@ -3,7 +3,7 @@
 - 🔭 I'm currently working on my portfolio and projects...
 - 🌱 Learning to code in Java, DSA and getting better at MERN stack.
 - 💬 Open for help and working on projects together(only if i have that skill😅).
-- ⚡ Looking forward to OPEN-SOURCE contribution and become a DevOps engineer in future.
+- ⚡ Contributing to OPEN-SOURCE projects and want become a DevOps engineer in future.
 
 # Holopin Badges
 [![@harshkt's Holopin board](https://holopin.io/api/user/board?user=harshkt)](https://holopin.io/@harshkt)
